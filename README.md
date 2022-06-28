@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @8Mile-H
+- 👀 I’m interested in SQL,python,tableau
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
